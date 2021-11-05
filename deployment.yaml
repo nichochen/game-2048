@@ -5,8 +5,7 @@ metadata:
   generation: 2
   labels:
     app: game
-    env: dev
-    version: 100
+    version: "300"
   name: game
   namespace: demo
 spec:
