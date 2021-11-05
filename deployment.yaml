@@ -5,7 +5,7 @@ metadata:
   generation: 2
   labels:
     app: game
-    version: "300"
+    version: "400"
   name: game
   namespace: demo
 spec:
